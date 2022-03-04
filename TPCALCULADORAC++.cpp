@@ -27,7 +27,7 @@ int main()
     cout<<"===   [3]-multiplicacion   ==="<<endl;
     cout<<"===      [4]-division      ==="<<endl;
     
-    cout<<"Ingrese operacion a realizar(suma,resta,multiplicacion, division): ";
+    cout<<"Ingrese operacion a realizar(seleccione un numero del 1 al 4 correspondiente a lo que desea): ";
     cin>>operacion;
     
     switch (operacion){
