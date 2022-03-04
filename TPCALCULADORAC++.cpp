@@ -51,6 +51,10 @@ int main()
             cout << "Resultado de division: " << (number1 / number2) << endl;
             break;
         }
+        default: {
+            cout << "No se ha seleccionado una operacion posible " << endl;
+            break;
+        }
     }
   
     
